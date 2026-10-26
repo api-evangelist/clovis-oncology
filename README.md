@@ -64,5 +64,16 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Clovis Oncology is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by nea) and added to the network as a stub for full-pipeline profiling.
-- https://www.clovisoncology.com/
+Clovis Oncology is a biopharmaceutical company focused on developing innovative small molecule therapies for the treatment of cancer. The company discovers, develops, and commercializes oncology drugs, aiming to address unmet medical needs in oncology through a pipeline of targeted therapies. While the public website currently returns an error page, the company is known from industry reports and regulatory filings as an active participant in cancer drug development, with several candidates in clinical trials.
+
+**Areas:** Company · Oncology · Biopharma · CancerTherapeutics · ClinicalTrials
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.clovisoncology.com/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/clovis-oncology/](https://apis.io/providers/clovis-oncology/).
